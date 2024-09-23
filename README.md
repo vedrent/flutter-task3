@@ -1,16 +1,14 @@
-# task_3
+# Flutter task_3 Петров Павел Константинович
 
-A new Flutter project.
+### Создание проекта
+1. Создал проект на Flutter
+2. Настроил иерархию проекта
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/28f76524-1cd4-4053-ad4d-681623b97f97)
+3. Создал статические данные и модель под них
+4. Сверстал UI страниц и подтянул статические данные и ссылки на изображения
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/fb2afb59-5893-43eb-a63c-58720ca9db5e)
+![image](https://github.com/user-attachments/assets/f2532fd5-d37c-45ae-a236-79eac843cd38)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/d9088a0b-6da6-482d-a88b-d2fd8d9b8d25)
